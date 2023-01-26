@@ -1,4 +1,13 @@
-function greet(name){
+/* function greet(name){
+    console.log(`Hello ${name}`);
+}
+
+function greetVishwas(greetFn){
+    const name = "Gana";
+    greetFn(name);
+} */
+
+/* function greet(name){
     console.log(`Hello ${name}`);
 }
 
@@ -6,5 +15,5 @@ function greetVishwas(greetFn){
     const name = "Gana";
     greetFn(name);
 }
-
-greetVishwas(greet);
+ */
+/* greetVishwas(greet); */
